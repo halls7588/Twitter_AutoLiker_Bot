@@ -13,3 +13,6 @@ Go to a page with tweets you want to like. Copy and paste the like script into C
 
 ### Follows
 Go to a page with users you want to follow. Copy and paste the follow script into Chrome console and press return. The script will follow each user on the page, then scroll down and follow the next page of users. Simple as that. Make sure to close the window after 5-10 minutes as the script will not stop otherwise and your account will get flagged or banned. 
+
+### Follows
+Go to your page under people you follow. Copy and paste the follow script into Chrome console and press return. The script will unfollow each user on the page, then scroll down and unfollow the next page of users. Simple as that. Make sure to close the window after 5-10 minutes as the script will not stop otherwise and your account will get flagged or banned. 
