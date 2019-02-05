@@ -1,4 +1,4 @@
-# Twitter Like/Follow Scripts
+# Twitter Like/Follow/Unfollow Scripts
 Very simple scripts to automate likes and following users on twitter. 
 
 ## Warning
